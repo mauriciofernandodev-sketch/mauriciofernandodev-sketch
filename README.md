@@ -40,11 +40,17 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciofernandodev-sketch/mauriciofernandodev-sketch/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciofernandodev-sketch/mauriciofernandodev-sketch/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mauriciofernandodev-sketch/mauriciofernandodev-sketch/output/pacman-contribution-graph.svg">
-</picture>
+<div align="left">
+  <a href="https://www.instagram.com/apolo.my/?utm_source=ig_web_button_share_sheet" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/556596728783?text=Ol%C3%A1%2C%20vim%20pelo%20seu%20GitHub%20e%20me%20interessei%20pelo%20seu%20perfil." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:mauricio.fernando.dev@gmail.com?subject=Contato&body=Olá,%20vim%20pelo%20seu%20Git-hub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
